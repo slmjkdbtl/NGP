@@ -8,18 +8,20 @@
 - [ohrrpgce](http://rpg.hamsterrepublic.com/ohrrpgce) - *Official Hamster Republic Role Playing Game Construction Engine*
 - [puzzlescript](https://www.puzzlescript.net) - *puzzle game engine*
 - [click4](https://josefnpat.itch.io/click4) - *a fantasy console based on nibbles*
+- [rltk](https://github.com/thebracket/rltk) - *roguelike toolkit*
 
 #### Drawing Programs
 - [va-da](https://mason-lindroth.itch.io/va-da) - *a trivial animation/drawing program*
 - [Bratavism](https://even-kei.itch.io/bratavism) - *a solitary dolphin creature creates an abstract painting by throwing a tantrum!*
 - [Even Scene](https://even-kei.itch.io/even-scene) - *a virtual playset/art toy that allows you to create and save fun images*
 - [Gentle Gradient](http://www.foddy.net/2010/10/gentle-gradient/) - *gradient editor*
-- [Playscii](http://vectorpoem.com/playscii/) - *an open source ASCII art, animation, and game creation program*
 - [REXPaint](http://www.gridsagegames.com/rexpaint/) - *a powerful and user-friendly ASCII art editor*
+- [Multipaint](http://multipaint.kameli.net/) - *a cross-platform image editor/painter which covers the color limitations of 8-bit machines*
 
 #### Sound
 - [sfxr](http://www.drpetter.se/project_sfxr.html) - *sound effects for all!*
 - [klystrack](http://kometbomb.github.io/klystrack/) - *a tracker for making C64/NES/Amiga-style chiptunes on a modern platform*
+- [nano](http://www.nanoloop.com/) - *music in two dimensions*
 
 #### Selfie Tools
 - [Bite of Face](https://mousefountain.itch.io/bite-of-face) - *ASCII selfie*
