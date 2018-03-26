@@ -15,7 +15,7 @@
 - [flatpack](https://candle.itch.io/flatpack) - *a program for assembling a navigable collage of photos*
 - [msmaker](https://carsonk.itch.io/msmaker) - *an mspaint clone where you can bring your art to life in the form of a miniature platformer game*
 
-#### Drawing & Image
+#### Drawing & Image & Design
 - [va-da](https://mason-lindroth.itch.io/va-da) - *a trivial animation/drawing program*
 - [Bratavism](https://even-kei.itch.io/bratavism) - *a solitary dolphin creature creates an abstract painting by throwing a tantrum!*
 - [Even Scene](https://even-kei.itch.io/even-scene) - *a virtual playset/art toy that allows you to create and save fun images*
@@ -31,6 +31,9 @@
 - [Doodle Studio 95!](https://fernandoramallo.itch.io/doodle-studio-95) - *a FUN drawing and animation tool for Unity*
 - [Sink's Fun Pack](https://sink.itch.io/sinks-fun-pack) - *a paint tool that doubles as a level editor*
 - [Emotica](https://w.itch.io/emotica) - *by anna antropy*
+- [Shabby Home Designer](https://tdlk.itch.io/shabby-home-designer) - **
+- [Circuit Craft](http://photoncreations.com/circuitcraft/) - *an easy to use app that lets you design, build and run digital circuits*
+- [Barles Charkley's Shut Up and Paint](https://schonstal.itch.io/shut-up-and-paint) *You are a wonderful artist.*
 
 #### Sound
 - [evosfxr](https://candle.itch.io/evosfxr) - *evolve sounds by selecting interesting ones and recombining them*
@@ -41,15 +44,13 @@
 - [Blendwave](http://beta.blendwave.net/?p=wavePanel) - *sound effect tool*
 - [Marabu](https://hundredrabbits.itch.io/marabu) - *A Minimalist Music Tracker*
 - [ChipTone](http://sfbgames.com/chiptone/) - *a free tool for generating sound effects*
+- [Five-Stringed Instrument](https://iansnyder.itch.io/five-stringed-instrument) - *a five-stringed instrument which can be played by you and anywhere between 0 and 63 of your ghosts*
 
 #### Math Tools
 - [CALCULA2000 (PROFESSIONAL EDITION)](https://alienmelon.itch.io/calcula2000) - *the future of desktop calculators*
 
 #### Selfie Tools
 - [Bite of Face](https://mousefountain.itch.io/bite-of-face) - *ASCII selfie*
-
-#### Circut Design Tools
-- [Circuit Craft](http://photoncreations.com/circuitcraft/) - *an easy to use app that lets you design, build and run digital circuits*
 
 #### Other Links
 - [Kool Tools](http://kool.tools/)
